@@ -1,0 +1,122 @@
+{
+ "drawing": "Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module.pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/2073589e4ee7e278-p29.svg",
+ "sheet": {
+  "number": "8-109-06-002",
+  "title": "Output Amplifier Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 320, "straight": {"n": 3739, "mm": 7128.0}, "curved": {"n": 998, "mm": 958.9}},
+  "text": {"rings": 303, "straight": {"n": 3063, "mm": 3832.6}, "curved": {"n": 819, "mm": 1017.8}},
+  "tb": {"rings": 10, "straight": {"n": 192, "mm": 356.9}, "curved": {"n": 18, "mm": 17.2}}
+ },
+ "circles": [
+  {"c": [44.5, 339.9], "r": 6.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [44.6, 340.1], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [44.4, 91.1], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [309.6, 95.4, 328.0, 104.5], "w": 18.4, "h": 9.1, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [210.3, 95.4, 308.5, 104.5], "w": 98.2, "h": 9.1, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [170.1, 95.4, 189.1, 104.3], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [190.2, 95.4, 209.2, 104.3], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [120.3, 67.6, 328.0, 93.9], "w": 207.7, "h": 26.3, "from": "ring", "words": ["WBS", "WARD-BECK", "SYBTEMS"], "in_title_block": true},
+  {
+   "mm": [170.1, 27.4, 328.0, 66.6],
+   "w": 157.8,
+   "h": 39.2,
+   "from": "ring",
+   "words": ["8 ~ 109A", "OUTPUT", "AMPLIFIER", "COMPONENT", "LAYOUT"],
+   "in_title_block": true
+  },
+  {"mm": [120.3, 57.6, 169.0, 66.5], "w": 48.8, "h": 8.9, "from": "ring", "words": ["DRN: GEB"], "in_title_block": true},
+  {"mm": [120.3, 47.5, 169.0, 56.6], "w": 48.8, "h": 9.1, "from": "ring", "words": ["ENG.MRW", "4/78"], "in_title_block": true},
+  {"mm": [120.0, 37.3, 169.0, 46.4], "w": 49.0, "h": 9.1, "from": "ring", "words": ["CKDPr<"], "in_title_block": true},
+  {"mm": [120.0, 27.4, 169.0, 36.5], "w": 49.0, "h": 9.1, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [120.0, 7.3, 168.8, 26.4], "w": 48.8, "h": 19.1, "from": "ring", "words": ["SCALE"]},
+  {"mm": [289.7, 7.3, 327.7, 26.4], "w": 38.0, "h": 19.1, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [170.1, 7.3, 188.9, 26.3], "w": 18.8, "h": 19.0, "from": "ring"},
+  {"mm": [189.9, 7.1, 288.7, 26.1], "w": 98.8, "h": 19.1, "from": "ring", "words": ["8-109-06-002"]}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [24.0, 335.7, 39.3, 345.8], "text": "E2C"},
+   {"mm": [9.3, 322.8, 41.2, 336.9], "text": "+C2= 47k"},
+   {"mm": [24.2, 329.5, 40.6, 338.1], "text": "23/10"},
+   {"mm": [13.4, 320.0, 24.8, 327.6], "text": "R2_"},
+   {"mm": [27.0, 304.0, 41.0, 312.1], "text": "I8k"},
+   {"mm": [13.4, 293.2, 39.3, 301.8], "text": "R741Q"},
+   {"mm": [15.5, 260.8, 28.9, 268.5], "text": "22"},
+   {"mm": [9.1, 252.2, 33.5, 259.1], "text": "LF356"},
+   {"mm": [16.2, 226.9, 50.3, 239.6], "text": "-C1o47p"},
+   {"mm": [16.4, 218.3, 51.8, 231.9], "text": "~Ciis7p"},
+   {"mm": [7.3, 210.3, 42.3, 221.1], "text": "~RII Jk"},
+   {"mm": [5.2, 192.4, 40.2, 203.6], "text": "~R12 2k"},
+   {"mm": [37.1, 178.1, 53.3, 185.1], "text": "Iol2s"},
+   {"mm": [22.7, 174.9, 41.0, 182.6], "text": "~C3\""},
+   {"mm": [25.0, 157.4, 49.9, 168.7], "text": "ES6"},
+   {"mm": [6.7, 108.6, 50.7, 128.0], "text": "22o/iecl6 -"},
+   {"mm": [5.4, 91.1, 38.9, 106.9], "text": "R374K7"},
+   {"mm": [170.3, 95.4, 208.6, 103.1], "text": "ISSUE |DATE"},
+   {"mm": [245.5, 96.1, 274.6, 103.0], "text": "REVISION"},
+   {"mm": [312.4, 96.1, 325.8, 103.0], "text": "APP"},
+   {"mm": [24.2, 84.2, 37.6, 92.8], "text": "E6"},
+   {"mm": [133.4, 74.3, 321.9, 86.0], "text": "WBS WARD-BECK SYBTEMS"},
+   {"mm": [121.3, 57.9, 153.1, 65.3], "text": "DRN: GEB"},
+   {"mm": [231.2, 53.1, 266.2, 62.7], "text": "8 ~ 109A"},
+   {"mm": [121.3, 47.5, 168.8, 55.6], "text": "ENG.MRW 4/78"},
+   {"mm": [208.1, 42.1, 294.5, 50.7], "text": "OUTPUT AMPLIFIER"},
+   {"mm": [121.3, 38.4, 154.2, 46.6], "text": "CKDPr<"},
+   {"mm": [198.4, 30.0, 297.9, 39.8], "text": "COMPONENT LAYOUT"},
+   {"mm": [122.0, 28.1, 134.9, 35.0], "text": "APP"},
+   {"mm": [134.3, 19.0, 154.2, 26.0], "text": "SCALE"},
+   {"mm": [299.5, 19.0, 318.2, 25.5], "text": "ISSUE"},
+   {"mm": [206.4, 10.6, 272.7, 20.4], "text": "8-109-06-002"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [114.6, 10.3, 332.5, 111.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE |DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYBTEMS",
+   "DRN: GEB",
+   "8 ~ 109A",
+   "ENG.MRW 4/78",
+   "OUTPUT AMPLIFIER",
+   "CKDPr<",
+   "COMPONENT LAYOUT",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "8-109-06-002"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 8-109-06-002, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 320 rings, 3,739 straight (7,128 mm) / 998 curved (959 mm); text 303 rings, 3,063 straight (3,833 mm) / 819 curved (1,018 mm); tb 10 rings, 192 straight (357 mm) / 18 curved (17.2 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 6.7 @ (44.5, 339.9), r 5.5 @ (44.6, 340.1), r 5.5 @ (44.4, 91.1)",
+  "- **Closed boxes:** 14 (10 in the title block); named: SCALE; ISSUE; 8-109-06-002",
+  "- **Words (OCR):** 38 in 32 lines: E2C · +C2= 47k · 23/10 · R2_ · I8k · R741Q · 22 · LF356 · -C1o47p · ~Ciis7p · ~RII Jk · ~R12 2k",
+  "- **Title block:** (115, 10)–(332, 112) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYBTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW 4/78 · OUTPUT AMPLIFIER · CKDPr< · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-002"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "drawing": "Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/2073589e4ee7e278-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.1, 20.1, 328.8, 420.6],
+ "outlines": {
+  "line": {"rings": 23, "straight": {"n": 532, "mm": 2648.1}, "curved": {"n": 45, "mm": 75.3}},
+  "text": {"rings": 57, "straight": {"n": 482, "mm": 616.2}, "curved": {"n": 112, "mm": 181.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [28.1, 414.5, 141.2, 421.5], "text": "WAAD-BECX SYSTEMS LTD_"},
+   {"mm": [121.3, 229.3, 205.1, 237.1], "text": "8-109 AMPL IFIER SERIES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–329 mm across, 20–421 mm up",
+  "- **Outlines:** line 23 rings, 532 straight (2,648 mm) / 45 curved (75.3 mm); text 57 rings, 482 straight (616 mm) / 112 curved (181 mm)",
+  "- **Words (OCR):** 5 in 2 lines: WAAD-BECX SYSTEMS LTD_ · 8-109 AMPL IFIER SERIES"
+ ]
+}

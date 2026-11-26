@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/2073589e4ee7e278-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 301.6, 419.5],
+ "outlines": {
+  "line": {"rings": 29, "straight": {"n": 477, "mm": 3168.5}, "curved": {"n": 47, "mm": 76.5}},
+  "text": {"rings": 179, "straight": {"n": 1791, "mm": 2399.4}, "curved": {"n": 413, "mm": 696.6}},
+  "tb": {"rings": 2, "straight": {"n": 113, "mm": 283.7}, "curved": {"n": 8, "mm": 18.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [117.4, 402.9, 279.4, 412.7], "text": "WAAD-BECK SYSTEMS LTD"},
+   {"mm": [49.0, 394.7, 277.6, 408.6], "text": "WBS 841 PAOGAESS AVENUE; SCAABCPOUGH ONTAAO M1k 2*4"},
+   {"mm": [116.8, 392.7, 168.6, 398.0], "text": "Telex 065-25399"},
+   {"mm": [203.6, 392.7, 277.6, 398.0], "text": "TELEPCONE 4161438-655C"},
+   {"mm": [134.9, 238.4, 198.6, 253.0], "text": "M463AB"},
+   {"mm": [119.2, 221.9, 212.7, 230.3], "text": "SUBMASTER MODULE"},
+   {"mm": [216.3, 63.9, 241.6, 70.4], "text": "MANUAL"},
+   {"mm": [244.8, 63.7, 271.8, 70.6], "text": "ISSUE #1"},
+   {"mm": [215.9, 50.7, 253.9, 57.2], "text": "APRIL 1986"}
+  ]
+ },
+ "title_block": {
+  "mm": [42.4, 55.1, 278.6, 421.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SYSTEMS LTD",
+   "WBS 841 PAOGAESS AVENUE; SCAABCPOUGH ONTAAO M1k 2*4",
+   "Telex 065-25399",
+   "TELEPCONE 4161438-655C",
+   "M463AB",
+   "SUBMASTER MODULE",
+   "MANUAL",
+   "ISSUE #1"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–302 mm across, 0–420 mm up",
+  "- **Outlines:** line 29 rings, 477 straight (3,168 mm) / 47 curved (76.5 mm); text 179 rings, 1,791 straight (2,399 mm) / 413 curved (697 mm); tb 2 rings, 113 straight (284 mm) / 8 curved (18.2 mm)",
+  "- **Words (OCR):** 18 in 9 lines: WAAD-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE; SCAABCPOUGH ONTAAO M1k 2*4 · Telex 065-25399 · TELEPCONE 4161438-655C · M463AB · SUBMASTER MODULE · MANUAL · ISSUE #1 · APRIL 1986",
+  "- **Title block:** (42, 55)–(279, 421) mm: WAAD-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE; SCAABCPOUGH ONTAAO M1k 2*4 · Telex 065-25399 · TELEPCONE 4161438-655C · M463AB · SUBMASTER MODULE · MANUAL · ISSUE #1"
+ ]
+}

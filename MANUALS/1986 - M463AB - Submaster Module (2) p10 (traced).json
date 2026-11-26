@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/ef63f2a2ac384333-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.1, 20.1, 328.8, 420.6],
+ "outlines": {
+  "line": {"rings": 79, "straight": {"n": 1039, "mm": 3398.4}, "curved": {"n": 171, "mm": 294.6}},
+  "text": {"rings": 17, "straight": {"n": 156, "mm": 217.8}, "curved": {"n": 36, "mm": 62.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [122.6, 229.7, 204.5, 234.8], "text": "8-109 AMPLIFIER SERIES"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–329 mm across, 20–421 mm up",
+  "- **Outlines:** line 79 rings, 1,039 straight (3,398 mm) / 171 curved (295 mm); text 17 rings, 156 straight (218 mm) / 36 curved (62.7 mm)",
+  "- **Words (OCR):** 7 in 5 lines: 8-109 AMPLIFIER SERIES · ps · BS · tp · ht"
+ ]
+}

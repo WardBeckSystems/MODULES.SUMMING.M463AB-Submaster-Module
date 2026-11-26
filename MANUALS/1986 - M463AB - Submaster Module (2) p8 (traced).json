@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf",
+ "page": 8,
+ "version": 1,
+ "trace": "_traces/ef63f2a2ac384333-p8.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "8", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.0, 19.9, 310.5, 420.6],
+ "outlines": {
+  "line": {"rings": 454, "straight": {"n": 3599, "mm": 6571.2}, "curved": {"n": 952, "mm": 1520.5}},
+  "text": {"rings": 279, "straight": {"n": 1924, "mm": 2176.7}, "curved": {"n": 527, "mm": 824.5}}
+ },
+ "circles": [
+  {"c": [92.9, 313.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [74.2, 253.8], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [74.3, 313.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [92.8, 253.8], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [100.7, 253.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [25.3, 413.0, 75.8, 418.1], "text": "WARO ·SECK"},
+   {"mm": [84.8, 413.0, 99.5, 418.1], "text": "YST"},
+   {"mm": [122.2, 413.0, 135.8, 418.1], "text": "LTO"},
+   {"mm": [117.2, 358.8, 202.9, 364.1], "text": "M~JA8 SU8MASTER MODUL"},
+   {"mm": [44.9, 319.3, 55.1, 327.2], "text": "as)"},
+   {"mm": [176.8, 307.4, 187.4, 314.4], "text": "AI'"},
+   {"mm": [40.8, 306.6, 53.5, 311.6], "text": "RJll"},
+   {"mm": [40.6, 299.9, 50.5, 304.9], "text": "RJ2"},
+   {"mm": [41.0, 286.7, 51.2, 292.2], "text": "A3J"},
+   {"mm": [85.9, 286.9, 93.3, 292.0], "text": "tor"},
+   {"mm": [105.4, 286.9, 113.6, 292.0], "text": "4W"},
+   {"mm": [176.6, 286.9, 199.7, 292.0], "text": "Philips"},
+   {"mm": [41.0, 273.3, 51.6, 280.8], "text": "aas"},
+   {"mm": [40.8, 254.1, 52.9, 259.2], "text": "R37}"},
+   {"mm": [40.8, 237.7, 52.9, 242.7], "text": "R39)"},
+   {"mm": [40.8, 231.0, 53.8, 236.1], "text": "R4O)"},
+   {"mm": [40.8, 221.1, 50.7, 226.1], "text": "R41"},
+   {"mm": [40.8, 214.4, 52.7, 219.4], "text": "R42)"},
+   {"mm": [73.0, 202.9, 114.2, 210.4], "text": "es l,~tor 4W"},
+   {"mm": [144.7, 204.5, 167.8, 209.5], "text": "Philips"},
+   {"mm": [133.0, 190.9, 142.9, 196.4], "text": "2.2"},
+   {"mm": [133.0, 184.2, 142.9, 189.9], "text": "2.2"},
+   {"mm": [41.0, 145.1, 52.5, 150.6], "text": "AS>"},
+   {"mm": [41.0, 119.2, 51.8, 124.7], "text": "A56"},
+   {"mm": [41.0, 106.0, 51.8, 111.5], "text": "A56"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–310 mm across, 20–421 mm up",
+  "- **Outlines:** line 454 rings, 3,599 straight (6,571 mm) / 952 curved (1,520 mm); text 279 rings, 1,924 straight (2,177 mm) / 527 curved (824 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 1.7 @ (92.9, 313.0), r 1.7 @ (74.2, 253.8), r 1.7 @ (74.3, 313.2), r 1.7 @ (92.8, 253.8)",
+  "- **Words (OCR):** 34 in 29 lines: WARO ·SECK · YST · LTO · M~JA8 SU8MASTER MODUL · as) · AI' · RJll · RJ2 · A3J · tor · 4W · Philips"
+ ]
+}

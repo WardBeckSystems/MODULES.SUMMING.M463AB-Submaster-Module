@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ef63f2a2ac384333-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 310.5, 419.5],
+ "outlines": {
+  "line": {"rings": 120, "straight": {"n": 1419, "mm": 4548.1}, "curved": {"n": 248, "mm": 419.4}},
+  "text": {"rings": 179, "straight": {"n": 1352, "mm": 1720.9}, "curved": {"n": 248, "mm": 411.9}},
+  "tb": {"rings": 13, "straight": {"n": 142, "mm": 161.2}, "curved": {"n": 34, "mm": 56.7}}
+ },
+ "circles": [{"c": [186.1, 225.9], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [43.6, 392.3, 259.9, 409.6], "text": "(VVElS] <><>OG\"'E AIJENuE T\"EI.E~ 38"},
+   {"mm": [117.9, 403.5, 277.9, 410.5], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [184.2, 397.7, 198.4, 402.0], "text": "SCAl\""},
+   {"mm": [228.4, 398.1, 244.4, 402.0], "text": "QNT.o.\""},
+   {"mm": [117.4, 392.5, 128.9, 396.6], "text": "\"tE I.E"},
+   {"mm": [137.7, 392.3, 148.1, 396.6], "text": "06~"},
+   {"mm": [161.3, 392.3, 168.0, 396.6], "text": "99"},
+   {"mm": [136.2, 237.5, 196.9, 249.7], "text": "M463AB"},
+   {"mm": [120.3, 221.5, 211.4, 228.0], "text": "SUBM ASTER MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [111.2, 395.0, 259.0, 419.2],
+  "from": "title-block words (training set)",
+  "text": ["(VVElS] <><>OG\"'E AIJENuE T\"EI.E~ 38", "WARD-BECK SYSTEMS LTD", "SCAl\"", "QNT.o.\"", "\"tE I.E"]
+ },
+ "dots": [{"c": [162.4, 243.9], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–420 mm up",
+  "- **Outlines:** line 120 rings, 1,419 straight (4,548 mm) / 248 curved (419 mm); text 179 rings, 1,352 straight (1,721 mm) / 248 curved (412 mm); tb 13 rings, 142 straight (161 mm) / 34 curved (56.7 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (186.1, 225.9)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 22 in 13 lines: (VVElS] <><>OG\"'E AIJENuE T\"EI.E~ 38 · WARD-BECK SYSTEMS LTD · SCAl\" · QNT.o.\" · \"tE I.E · 06~ · 99 · M463AB · SUBM ASTER MODULE · ps · BS · tp",
+  "- **Title block:** (111, 395)–(259, 419) mm: (VVElS] <><>OG\"'E AIJENuE T\"EI.E~ 38 · WARD-BECK SYSTEMS LTD · SCAl\" · QNT.o.\" · \"tE I.E"
+ ]
+}
