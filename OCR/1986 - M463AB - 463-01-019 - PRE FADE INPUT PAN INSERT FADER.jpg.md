@@ -22,7 +22,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Words (OCR):** 18 in 16 lines: PAN iNSERT · FADER · SUMMING · BUS · SUM · {8*109A · (_i5dB) · 8-109F · INPUT · (-18dB) · CONT · COMi
 - **Wiring (first pass):** 100 connected wire groups from 152 runs; labelled ends: 207 mm → PRE /POST, FADE; 142 mm → (-18dB); 88 mm → 8-109F, (-18dB); 87 mm → PAN, iNSERT; 52 mm → PAN, iNSERT
 
-Every curve, box, word and wire group: [1986 - M463AB - 463-01-019 - PRE FADE INPUT PAN INSERT FADER (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-01-019%20-%20PRE%20FADE%20INPUT%20PAN%20INSERT%20FADER%20(traced).json) (the CAD file: `1986 - M463AB - 463-01-019 - PRE FADE INPUT PAN INSERT FADER (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 463-01-019 - PRE FADE INPUT PAN INSERT FADER (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-01-019%20-%20PRE%20FADE%20INPUT%20PAN%20INSERT%20FADER%20%28traced%29.json) (the CAD file: `1986 - M463AB - 463-01-019 - PRE FADE INPUT PAN INSERT FADER (traced).dxf`).
 
 ## Full text
 

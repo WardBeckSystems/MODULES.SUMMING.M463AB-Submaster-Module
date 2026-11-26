@@ -21,7 +21,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Words (OCR):** 93 in 72 lines: Pn35L9 Pu3l45 26401 204401 · 214401 21440| · ~RiiJEK · R9 22k · Rio-Jek · ~col025_Ri3 22 · ~C5jPp · 499 · ~C9237 R4 · -C3 · 429 · 429
 - **Title block:** (190, 1)–(332, 72) mm: IssUE |DATE · REVISION · ApP · WBS · WARD-BECX SY3TEMS · Drn.AM · M463AB · SUBMASTER MODULe · CKD: · COMPONENT LAYOUT · APP · SCALE · 463-06-027 · ISSUE
 
-Every curve, box, word and wire group: [1986 - M463AB - 463-06-027 - REVISION APR ENT SIDE (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-06-027%20-%20REVISION%20APR%20ENT%20SIDE%20(traced).json) (the CAD file: `1986 - M463AB - 463-06-027 - REVISION APR ENT SIDE (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 463-06-027 - REVISION APR ENT SIDE (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-06-027%20-%20REVISION%20APR%20ENT%20SIDE%20%28traced%29.json) (the CAD file: `1986 - M463AB - 463-06-027 - REVISION APR ENT SIDE (traced).dxf`).
 
 ## Full text
 

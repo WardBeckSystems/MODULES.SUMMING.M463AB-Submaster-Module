@@ -22,7 +22,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Words (OCR):** 151 in 119 lines: Pn3L45 Pn35L9 Pu3l45 21401 204+01 · 214401 · 20440 | · 0_0 · ~Azi · 08 · ~R22 · -R23 · 43 · 22k RioJek · ~R3 @K2 · 1025 Ri3
 - **Title block:** (64, 76)–(150, 291) mm: 2K5 · wBs 10-003 · R39 · R4Q · Swi · WBs · oosi · swio · WBS · Wbs · 2k5 · Wbs 10-003 · A37 R3a · Sws · WBS Il-aos · sw8 · W83 · W2 · 006 · CR3!KB ~R33 JKB · ~R36 Ke · Sk · WBS · Swi · WBS · Il-002 41
 
-Every curve, box, word and wire group: [1986 - M463AB - 463-06-027 - COMPONENT SIDE NOIES PINS (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-06-027%20-%20COMPONENT%20SIDE%20NOIES%20PINS%20(traced).json) (the CAD file: `1986 - M463AB - 463-06-027 - COMPONENT SIDE NOIES PINS (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 463-06-027 - COMPONENT SIDE NOIES PINS (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-06-027%20-%20COMPONENT%20SIDE%20NOIES%20PINS%20%28traced%29.json) (the CAD file: `1986 - M463AB - 463-06-027 - COMPONENT SIDE NOIES PINS (traced).dxf`).
 
 ## Full text
 

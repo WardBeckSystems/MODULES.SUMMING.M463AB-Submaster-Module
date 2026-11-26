@@ -23,7 +23,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Title block:** (222, 0)–(336, 59) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK BYSTEMS · DRN: GEB · 8 - 109A · ENG.MRW 4/78 · AMPLIFIER · APP · SCHEMATIC · SCALE · ISSUE · 8-109-02-002
 - **Wiring (first pass):** 25 connected wire groups from 316 runs; labelled ends: 197 mm → 2N4037, E7, 4K7; 196 mm → E3; 149 mm → R37, 4K7, EG, Ci6; 148 mm → E4, 15, 220/10, R3c; 104 mm → R34, 5-6, 15, 220/10
 
-Every curve, box, word and wire group: [1986 - M463AB - 8-109-02-002 - OUTPUT AMPLIFIER CKDAL SCHEMATIC (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDAL%20SCHEMATIC%20(traced).json) (the CAD file: `1986 - M463AB - 8-109-02-002 - OUTPUT AMPLIFIER CKDAL SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 8-109-02-002 - OUTPUT AMPLIFIER CKDAL SCHEMATIC (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDAL%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1986 - M463AB - 8-109-02-002 - OUTPUT AMPLIFIER CKDAL SCHEMATIC (traced).dxf`).
 
 ## Full text
 

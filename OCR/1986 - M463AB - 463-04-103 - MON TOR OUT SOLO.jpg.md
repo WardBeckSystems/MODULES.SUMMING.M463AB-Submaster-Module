@@ -20,7 +20,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Closed boxes:** 17; named: ci 3 Dl 4; El 5; HI 7; Eii; Pl131
 - **Words (OCR):** 89 in 63 lines: NPUT · INPUT · SHIELD · SHIELD · ci 3 N/C · N/C · OUT · Dl 4 · FB · OUT · FB · FB OUT
 
-Every curve, box, word and wire group: [1986 - M463AB - 463-04-103 - MON TOR OUT SOLO (traced).json](../MECHANICAL/1986%20-%20M463AB%20-%20463-04-103%20-%20MON%20TOR%20OUT%20SOLO%20(traced).json) (the CAD file: `1986 - M463AB - 463-04-103 - MON TOR OUT SOLO (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 463-04-103 - MON TOR OUT SOLO (traced).json](../MECHANICAL/1986%20-%20M463AB%20-%20463-04-103%20-%20MON%20TOR%20OUT%20SOLO%20%28traced%29.json) (the CAD file: `1986 - M463AB - 463-04-103 - MON TOR OUT SOLO (traced).dxf`).
 
 ## Full text
 

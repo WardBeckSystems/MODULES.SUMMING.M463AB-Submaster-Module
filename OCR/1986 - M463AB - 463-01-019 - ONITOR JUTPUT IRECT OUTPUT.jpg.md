@@ -23,7 +23,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Title block:** (114, 7)–(330, 109) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.HH, Deces · M463AB · ENG · SUBMASTER · MODULE · CKD · DIAGRAM · FUNCTIONAL · AP? · SCALE · ISSUE · 463-01-019
 - **Wiring (first pass):** 70 connected wire groups from 130 runs; labelled ends: 108 mm → n iNSERT; 103 mm → SOLO; 79 mm → n iNSERT; 77 mm → SOLO; 72 mm → 'RE[Post, LEVEL
 
-Every curve, box, word and wire group: [1986 - M463AB - 463-01-019 - ONITOR JUTPUT IRECT OUTPUT (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-01-019%20-%20ONITOR%20JUTPUT%20IRECT%20OUTPUT%20(traced).json) (the CAD file: `1986 - M463AB - 463-01-019 - ONITOR JUTPUT IRECT OUTPUT (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 463-01-019 - ONITOR JUTPUT IRECT OUTPUT (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-01-019%20-%20ONITOR%20JUTPUT%20IRECT%20OUTPUT%20%28traced%29.json) (the CAD file: `1986 - M463AB - 463-01-019 - ONITOR JUTPUT IRECT OUTPUT (traced).dxf`).
 
 ## Full text
 

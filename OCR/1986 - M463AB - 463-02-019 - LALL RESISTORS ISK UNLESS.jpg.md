@@ -21,7 +21,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Words (OCR):** 170 in 162 lines: +1By · Rio · Ri2 · ISk · 22 · 02 · 03 · 204401 21440i · Pn36+5 · 33ol6 · T2iy · 2iv
 - **Wiring (first pass):** 87 connected wire groups from 474 runs; labelled ends: 213 mm → 7ks, 204401, 330/6, IOp; 181 mm → Pn36+5, 3*3p, R3 8K2, MN; 179 mm → Ioa, +18v, 204401, RII; 155 mm → Rc8, 2-2, +21~, Pn3sc9; 133 mm → Pn3C4S, Ric, Isk, 22k
 
-Every curve, box, word and wire group: [1986 - M463AB - 463-02-019 - LALL RESISTORS ISK UNLESS (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-02-019%20-%20LALL%20RESISTORS%20ISK%20UNLESS%20(traced).json) (the CAD file: `1986 - M463AB - 463-02-019 - LALL RESISTORS ISK UNLESS (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 463-02-019 - LALL RESISTORS ISK UNLESS (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-02-019%20-%20LALL%20RESISTORS%20ISK%20UNLESS%20%28traced%29.json) (the CAD file: `1986 - M463AB - 463-02-019 - LALL RESISTORS ISK UNLESS (traced).dxf`).
 
 ## Full text
 

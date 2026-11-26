@@ -22,7 +22,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Words (OCR):** 18 in 9 lines: WAAD-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE; SCAABCPOUGH ONTAAO M1k 2*4 · Telex 065-25399 · TELEPCONE 4161438-655C · M463AB · SUBMASTER MODULE · MANUAL · ISSUE #1 · APRIL 1986
 - **Title block:** (42, 55)–(279, 421) mm: WAAD-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE; SCAABCPOUGH ONTAAO M1k 2*4 · Telex 065-25399 · TELEPCONE 4161438-655C · M463AB · SUBMASTER MODULE · MANUAL · ISSUE #1
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p1 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p1%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p1 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p1%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p1 (tra
 - **Outlines:** line 34 rings, 843 straight (3,145 mm) / 98 curved (151 mm); text 657 rings, 4,681 straight (5,397 mm) / 1,404 curved (2,219 mm)
 - **Words (OCR):** 65 in 47 lines: WAAD-BECX · systems LTD · TABLE OF · CONTENTS · MODULE · M463AB SUBMASTER · SECTION · PAGE · Warranty · Technica Data · I-1 · Circuit Description
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p2 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p2%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p2 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p2%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -41,7 +41,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p2 (tra
 - **Dots (junctions):** 5
 - **Words (OCR):** 157 in 81 lines: WAAD-BECX Systems LTD · TECHNICAL · DATA · M463AB SUBMASTER · MODULE · Gain: · 18 dB · 0.5 dB _ · (with fader in · 15 dB · "in-hand" · position)
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p3 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p3%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p3 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p3%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -51,7 +51,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p3 (tra
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (49.7, 212.1)
 - **Words (OCR):** 282 in 138 lines: WAAD-BECX systems LTD; · CiRcuiT · DESCRIPTION · ML63AB SUBMASTER MODULE · The ML63AB is designed to · accept · combined or · mixed feeds from · previously assigned · mixing channel inputs · The assigned · mixing
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p4 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p4%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p4 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p4%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -61,7 +61,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p4 (tra
 - **Dots (junctions):** 2
 - **Words (OCR):** 281 in 127 lines: WAAO-BECX SYSTEMS LTO · CIRcuIT DESCRIPTION · M463AB SuBMASTER MODULE · DIRECT Outout and · MONITOR_Outeut · The DIRECT output appears at · pins · 16 and · An · additiona isolated · output is · provided at
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p5 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p5%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p5 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p5%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -70,7 +70,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p5 (tra
 - **Outlines:** line 165 rings, 1,295 straight (4,184 mm) / 258 curved (408 mm); text 801 rings, 6,315 straight (7,240 mm) / 1,944 curved (3,069 mm)
 - **Words (OCR):** 125 in 112 lines: WAAD-BECX systems LTD_ · PARTS List · M463AB · SUBMASTER MQDULE · DESCR IPTION · MFG · MFG PART · NUMBER · PART · Capacitor · 330 · uF/6
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p6 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p6%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p6 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p6%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p6 (tra
 - **Outlines:** line 160 rings, 1,146 straight (4,140 mm) / 232 curved (350 mm); text 559 rings, 4,290 straight (4,891 mm) / 1,331 curved (2,069 mm)
 - **Words (OCR):** 103 in 92 lines: WAAD-BECK systems LTD · PARTS List · M463AB SUBMASTER · MODULE · PART DESCRIPTION · MFG · MFG PART NUMBER · 06 · Transistor · National · PN36L5 · 07
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p7 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p7%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p7 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p7%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p7 (tra
 - **Words (OCR):** 87 in 75 lines: WAAD-BECK systems LTD · PARTS List · ML63AB SUBMASTER · MODULE · PART DESCRIPTION · MFG · MFG PART · NUMBER · R29 · R3O ) Potentiometer · A/8 · R3I
 - **Title block:** (19, 226)–(244, 430) mm: WAAD-BECK systems LTD · PARTS List · ML63AB SUBMASTER · MODULE · PART DESCRIPTION · MFG · MFG PART · R29 · R3O ) Potentiometer · A/8 · R3I · WBS · R32 ) · R33 · Resistor · 1/4w · IK8 · Philips · R34 ·
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p8 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p8%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p8 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p8%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -99,7 +99,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p8 (tra
 - **Words (OCR):** 81 in 62 lines: WAAD-BECK · systems LTD · PARTS LIST · ML63AB · SUBMASTER MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R63 · Resistor 1/4w
 - **Title block:** (20, 36)–(245, 424) mm: WAAD-BECK · systems LTD · PARTS LIST · ML63AB · SUBMASTER MODULE · PART · DESCRIPTION · MFG · MFG PART · R63 · Resistor 1/4w · 15k · Philips · R64 · 1Sk · R65 · 470k · R66 · 2K2 · R67 · 2K7 · R68 · 2.
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p9 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p9%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p9 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p9%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p9 (tra
 - **Outlines:** line 23 rings, 532 straight (2,648 mm) / 45 curved (75.3 mm); text 57 rings, 482 straight (616 mm) / 112 curved (181 mm)
 - **Words (OCR):** 5 in 2 lines: WAAD-BECX SYSTEMS LTD_ · 8-109 AMPL IFIER SERIES
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p10 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p10%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p10 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p10%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -119,7 +119,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p10 (tr
 - **Words (OCR):** 279 in 184 lines: WARD-BECK SYSTEMS LTD_ · 8-109 · AMPLIFIER · SERIES · The · 8-109 · series of · amplifiers are · utilized as · an · internal component · 8-109
 - **Title block:** (31, 309)–(159, 425) mm: WARD-BECK SYSTEMS LTD_ · 8-109 · The · 8-109 · series of · amplifiers are · within · various · WBS series · mounts as · amplifier
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p11 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p11%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p11 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p11%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p11 (tr
 - **Outlines:** line 72 rings, 1,203 straight (3,380 mm) / 132 curved (212 mm); text 1,932 rings, 13,952 straight (14,753 mm) / 4,171 curved (6,536 mm)
 - **Words (OCR):** 328 in 172 lines: WARD-BECK SYSTEMS LTD_ · DESCRIPTION · 23 · 8-109 · AMPL IFIER SERIES · Jn? Output Level 0s 28 · dBm maximum. 78 · J0 29,782 · eof-3 · eot · 96 · lubom
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p12 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p12%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p12 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p12%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p12 (tr
 - **Words (OCR):** 142 in 121 lines: WARD-BECK · SYSTEMS LTD_ · CTJ · T2i PARTS LiST · 23i8 · AMPLIFIER · SERIES · 8-109 · 8-109 · TAA9 J7m · TAA9 · PART
 - **Title block:** (30, 400)–(159, 427) mm: WARD-BECK · SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p13 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p13%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p13 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p13%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p13 (tr
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (165.7, 204.2)
 - **Words (OCR):** 134 in 124 lines: WARD-BECK SYSTEMS · LTD_ · aTJ · PARTS List · T2i · SERIES · 23 · 8-109 AMPLIFIER · 8-109 · PART · DESCRIPTION · MFG
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p14 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p14%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p14 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p14%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p14 (tr
 - **Words (OCR):** 148 in 112 lines: WAAD-BECK SYSTEMS LTD_ · 4o38-OAAW · T2 PARTS · LIST · 8-109 · AMPLIFIER SERIES · 8-109A · e0i- · 26 · MIA · AII parts as · per
 - **Title block:** (29, 400)–(138, 426) mm: WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p15 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p15%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p15 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p15%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -168,7 +168,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p15 (tr
 - **Words (OCR):** 140 in 99 lines: WAAD-BECK · SYSTEMS LTD_ · OTJ ZMataye Ajaa-OAAW · PARTS LiST · 8-109 AMPL IFIER SERIES · 8-109D · 4e0[-8 · AII · parts as · per · 8-109 except as · noted below
 - **Title block:** (29, 404)–(138, 429) mm: WAAD-BECK · SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p16 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p16%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p16 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p16%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p16 (tr
 - **Words (OCR):** 51 in 34 lines: WAAD-BECK SYSTEMS · LTD_ · PARTS LIST · 8-109 · AMPLIFIER SERIES · 8-109G · AII parts per · as · 8-109 except as · noted · below · PART
 - **Title block:** (30, 132)–(138, 424) mm: WAAD-BECK SYSTEMS · 8-109G · AII parts per · as · PART · DESCIPT ION · C6 · Capacitor 4.7 pF · C11 · R15 · Resistor · 1/4w · WBS recommends the use · manufacturers for continued
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p17 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p17%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p17 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p17%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -190,7 +190,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p17 (tr
 - **Words (OCR):** 118 in 74 lines: WBS · M463A8 · FOLOBAcK LEVEL contro| R39/40: Lontro Teve · FB · PRE/Post FOLDBACK swirch Sw} · Iows Ehe choice · FOLDBACK · depressed · the · Swi0 ano · 5igna| · ShI
 - **Title block:** (144, 5)–(335, 324) mm: WBS · M463A8 · FOLOBAcK LEVEL contro| R39/40: Lontro Teve · FB · PRE/Post FOLDBACK swirch Sw} · Iows Ehe choice · Tne · pickoff point · for cne · OLDBACX · ther · priOr · after Posti cne SuDma · Taoer
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p18 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p18%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p18 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p18%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -200,7 +200,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p18 (tr
 - **Closed boxes:** 1
 - **Words (OCR):** 18 in 16 lines: PAN INSERT · FADER · SUMMING · BUS · SUM · 48-109A · (_I5dB) · 8-109F · INPUT · (-18dB) · CONT · COMi
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p19 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p19%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p19 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p19%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p19 (tr
 - **Title block:** (114, 6)–(330, 109) mm: ISSUE · DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRNHA: · DEc/e5 · M463AB · ENG_ · SUBMASTER MODULE · CKD: · FUNCTIONAL · DIAGRAM · APP · SCALE · ISSUE · 463-01-019
 - **Wiring (first pass):** 78 connected wire groups from 134 runs; labelled ends: 108 mm → INSERT; 102 mm → SOLO; 79 mm → SOLO; 55 mm → 'RE/post, LEVEL; 48 mm → INSERT
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p20 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p20%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p20 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p20%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -223,7 +223,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p20 (tr
 - **Outlines:** line 258 rings, 5,087 straight (11,417 mm) / 910 curved (1,546 mm); text 667 rings, 4,954 straight (5,032 mm) / 1,661 curved (2,492 mm)
 - **Words (OCR):** 172 in 162 lines: +IB~ · Rio · RI2 · ISk · 22 · 02 · 03 · 244401 214401 · Pn36+5 · 33ol6 · tziv · 21v
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p21 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p21%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p21 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p21%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -234,7 +234,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p21 (tr
 - **Words (OCR):** 142 in 123 lines: 717 MONLTOR · R44 75 · cuT · 7U · R45 2.2 · 7I6 DIRECT OuT · R46 2.2 · 7t · +84Bm Cao_ · MM · R47 2'2 · 21v
 - **Title block:** (222, 0)–(335, 59) mm: Issu DATE · Revisiom · WARD-BECK SYSTEMS · WBS · M463AB · ENG_ · SUBMASTER MODule · CKD · SCHEMATiC · SCALE · ISSUE · 463-02-019
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p22 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p22%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p22 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p22%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -246,7 +246,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p22 (tr
 - **Words (OCR):** 142 in 108 lines: ~C13-soop Pn3L45 Pn35l9 Pu3445 · 4k · Ph3L4S 204401 · 00 · 0_0 · ~Rzi- · 08 · ~R22- · 0-0 · 0-0 · -R23 2k3 · R9 22k
 - **Title block:** (63, 75)–(150, 291) mm: 2K5 · wBS 10-003 · R39 · R4O _ · Swi · swio · WBs · 2k5 · Wbs i0-c03 · A37 R3a · Sw? · sw8 5w2 · 83 · IkB LR33 · =R3 · 4kB · R3c Ke ~R35JKe · Sk · WBS · Swi · wBS Il-0o2 '10-017 · R2s R3o R3i · R32 · 
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p23 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p23%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p23 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p23%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -258,7 +258,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p23 (tr
 - **Words (OCR):** 98 in 80 lines: Pn35L9 Pu3l45 21401 · 204+01 · 214401 · 21401 · ~RiiJEK R9 22* Riojek · CR3 9K2 · 22 · ~Ca2Jp -C3- · 4e? · R4 · 429 · 4e? Rig JEK R7
 - **Title block:** (190, 1)–(332, 72) mm: APP · IssUE |DATE · REVISION · WBS · WARD-BECX SY3TEMI · DrrAA · M46 JAB · SUBMASTER · MODULe · CKD: · COMPONENT LAYOUT · APP · SCALE · ISSUE · 463-06-027
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p24 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p24%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p24 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p24%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -270,7 +270,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p24 (tr
 - **Dots (junctions):** 1
 - **Words (OCR):** 88 in 59 lines: NPUT · INPUT · SHIELD · SHIELD · N/c · cl 3 N/C · OUT · Dl 4 FB · OUt · FB · OUT El 5 · FB OUT
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p25 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p25%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p25 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p25%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -281,7 +281,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p25 (tr
 - **Dots (junctions):** 1
 - **Words (OCR):** 123 in 118 lines: Ri3 · +I8v · 390 · C3 · iol2s · Ri7 · Ris · 4K7 · 22 · 02 · Pn3645 · 03
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p26 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p26%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p26 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p26%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -295,7 +295,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p26 (tr
 - **Title block:** (223, 0)–(336, 59) mm: ISSUE IDATE · REVISION · APP · WBS · WARD-BECK SySTeMS · DRNS · GEB · 8 - 10QA · ENG.MRW 4[78 · outPut AMPLIFIER · APP · SCHEMATIC · ISSUE · SCALE · 8-109-02-002
 - **Wiring (first pass):** 26 connected wire groups from 261 runs; labelled ends: 198 mm → 2N4037, E7, 4k7; 196 mm → E3; 150 mm → R37, 4K7, CiG, 22o/10; 148 mm → E4, 220/10, R3c; 104 mm → R35, 5*6, CiG, 22o/10
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p27 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p27%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p27 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p27%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -306,7 +306,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p27 (tr
 - **Closed boxes:** 2; named: 2i Lf356; 22 Lf356
 - **Words (OCR):** 91 in 88 lines: 0e7 · E2C · +C223/0 · Ei6 ~Ci · 33/10 · ~R16 22k · +41k · R?_4zk · LRi · ~Ria 2ek · RS · 20k
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p28 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p28%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p28 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p28%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -318,7 +318,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p28 (tr
 - **Words (OCR):** 38 in 32 lines: E2C · +C2= 47k · 23/10 · R2_ · I8k · R741Q · 22 · LF356 · -C1o47p · ~Ciis7p · ~RII Jk · ~R12 2k
 - **Title block:** (115, 10)–(332, 112) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYBTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW 4/78 · OUTPUT AMPLIFIER · CKDPr< · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-002
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p29 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p29%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p29 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p29%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -328,7 +328,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p29 (tr
 - **Closed boxes:** 4; named: cii 4'p
 - **Words (OCR):** 130 in 127 lines: +I8v · 390 · C3 · Ri7 · Ris · 4k7 · 22 · 32 · Pn3645 · 03 · Rs · 2n2102
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p30 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p30%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p30 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p30%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -342,7 +342,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p30 (tr
 - **Title block:** (227, 0)–(336, 59) mm: IssUEIDATE · REVISION · APP · WBS WARD-BECK SYSTEMB · DRN: GEB · 8~109f · ENG.Mrw 4[78 · BOOSTeR AMPLIFIER · CKD: · APP · SCHEMATIC · SCALE · ISSUE · 8-109-02-007
 - **Wiring (first pass):** 25 connected wire groups from 257 runs; labelled ends: 204 mm → E7; 198 mm → E3, 2n2102; 150 mm → R37, 4k7, ci6, 22o/10; 148 mm → 220/10, R3c, 4k7; 107 mm → R34, 5-6, 220/10
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p31 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p31%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p31 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p31%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -354,7 +354,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p31 (tr
 - **Words (OCR):** 101 in 94 lines: E7 · E2 · ~CI 33/10 · 23/6 · ~R16 22k · 47k · CR2- · 22k · 6k2 · ~Ri8 · RS · CRA
 - **Title block:** (161, 37)–(336, 170) mm: ES · WBS · 8-109 · 22oliecia- · -ci5t · 220/6 · 4k7 · ~R374k7 · ~R36 · EG · DrI · ENG · CKC
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p32 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p32%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p32 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p32%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -366,7 +366,7 @@ Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p32 (tr
 - **Words (OCR):** 40 in 36 lines: E2 · 33/ · Fc2: · R?_4zk · R4 · RG Lk? · R7Jek · 22 · LF356 · ~Clofp · RIl Jek · RIs 510
 - **Title block:** (113, 9)–(331, 110) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109F · ENG.MRW · 4/78 · BOOSTER AMPLIFIER · CKD. Rak · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-007
 
-Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p33 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p33%20(traced).json) (the CAD file: `1986 - M463AB - Submaster Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - Submaster Module p33 (traced).json](../MANUALS/1986%20-%20M463AB%20-%20Submaster%20Module%20p33%20%28traced%29.json) (the CAD file: `1986 - M463AB - Submaster Module p33 (traced).dxf`).
 
 ## Full text
 

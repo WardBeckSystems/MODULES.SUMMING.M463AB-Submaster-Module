@@ -23,7 +23,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Title block:** (222, 0)–(335, 59) mm: IssuiDate · Revisioh · WBS · WARD-BECK 8ySTEMS · M463AB · SUBMASTER Module · CKd · SCHEMATIC · Apr · SCALE · ISSUE · 463-02-019
 - **Wiring (first pass):** 104 connected wire groups from 437 runs; labelled ends: 467 mm → R28, 396, PAL, Sw3; 446 mm → R+s 2.2, R46 2.2, R3s, R3i; 441 mm → R46 2.2, Amplifier, 2EC, R32; 290 mm → 396; 244 mm → Sw7, 5wB, Sws, Rs2
 
-Every curve, box, word and wire group: [1986 - M463AB - 463-02-019 - LESS OTHERWISE SPECIFIED COMPONENT DESIGNATIONS (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-02-019%20-%20LESS%20OTHERWISE%20SPECIFIED%20COMPONENT%20DESIGNATIONS%20(traced).json) (the CAD file: `1986 - M463AB - 463-02-019 - LESS OTHERWISE SPECIFIED COMPONENT DESIGNATIONS (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 463-02-019 - LESS OTHERWISE SPECIFIED COMPONENT DESIGNATIONS (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%20463-02-019%20-%20LESS%20OTHERWISE%20SPECIFIED%20COMPONENT%20DESIGNATIONS%20%28traced%29.json) (the CAD file: `1986 - M463AB - 463-02-019 - LESS OTHERWISE SPECIFIED COMPONENT DESIGNATIONS (traced).dxf`).
 
 ## Full text
 

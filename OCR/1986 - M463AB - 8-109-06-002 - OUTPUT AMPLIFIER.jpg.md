@@ -21,7 +21,7 @@ Wiki page: [M463AB](../../../../PAGES/M463AB.md)
 - **Words (OCR):** 35 in 32 lines: E2O · Rz_ · 47k · R6 · R7410 · 22 · LF356 · -C1o47p · ~Ril JGk · ~Ri2 2k · Riz 220 · Iol25
 - **Title block:** (113, 10)–(332, 112) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW · 4/78 · OUTPUT · AMPLIFIER · CKD Ras · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-002
 
-Every curve, box, word and wire group: [1986 - M463AB - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20(traced).json) (the CAD file: `1986 - M463AB - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AB - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1986%20-%20M463AB%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1986 - M463AB - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
 
 ## Full text
 
