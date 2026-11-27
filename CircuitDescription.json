@@ -1,0 +1,126 @@
+{
+ "module": "M463AB",
+ "source": {
+  "file": "MANUALS/1986 - M463AB - Submaster Module (2).pdf",
+  "pages": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.79,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M46 3AB i s designed to accept combined 0<' mixed feeds from pre,,;ou sly a S5 i g ned mixing channel inputs. The assigned mixing channel inputs a r-e amplified and routed to thea p PrQ p r-;a te points within the console system.",
+    "Input and Summing Ampl ifi er",
+    "The signal originating frQm thee x te r-n a l mixing n e twor-k i sap plied to the summing cUr'\"r'\"en t nodes of the input amp l i fie r vi.. edge connector pins \\ and A.",
+    "0 1 t h rough 08 fOr'\"m \" surrm ing amp l i fie r comprising a b a i anced input and an.un b.. ian c e d output. to correct for smalls y stem level var i aHon's, trim pot R7 i sin corp or\" ted asp art of the pre amplifier. The differ enti alba lance adj u s tme n t control R6 serves to minimize Common mode types i g na l s originating ahead oft h e amplifier. C12 couples the output of the summing \" mpl if i e r toe lo w-p ass filter consisting of R22, R 23, R24, C13, C14, CIS and 21. The 3 d B ro ll_off point i s loc\" ted a tap pro x i ma tel y 40 kHz.",
+    "The output of 2t is cO<.Jpled through C1 8 tot he output amp l i f i er 8-10911..",
+    "8-10911. Output Amplifier and INSERT",
+    "The 8 -109 11. amp l i fie r r -ets est h e nominal signal level to.O dBm. The output i sac t i ve l y balanced \" n d fed tot h e \"inse rt point \" at pins 15 \" n d S.",
+    "Pins 15 and S a r'\"e us u\"ll y connected t o a n o r-maH ed set of insert jacks, with the output 5 ide connected tot h e subm\" s t e r fade r.",
+    "The reoeO<.Jt put is return ed tot he module on pins 9 \" n d K. The feed forth e PRE f AOE outputs i s normally picked u pat them i x ing fade r input and i s returned tot h emo d ul e via pins 14 and R.",
+    "8-109F Boost \"r Amplifier",
+    "This \" mp t i fie rope rates with again o f 33 dB. I t.-ec overS the I S dB",
+    "\" i n-h \"n d\" 10 5 05 incur red b y the fader and provides add i ti o n alga i n",
+    "top r odu ce a nominal level of +8 dBm at its output.",
+    "WAR O - BECKS YSTEMS L.to."
+   ]
+  },
+  {
+   "heading": "CIRCUIT OESCR IPT ION",
+   "paragraphs": [
+    "DIRECT Output on d MONITOR Output",
+    "Tn e OlR ECT o ulPul ol)gea rs atp ins 16 and T. An additional Isolated oulPul isp ro v ided atp ins 17/U. T~ latter ou tpU I maybe utilized as a meter ing and /or mon ilor lakeoff. Care should betaken to restrict loading of this OUlput 10 SK oI'lms or higher.",
+    "Mas l er Output sd and PAN Conlrol",
+    "Ale f t and aright MASTER output are also being fed b y t ne 8_ 109F outputs ig n al. Tn a y ara routed via PANs witch SWl and PAN Con l rol R29 to R32. T~ master outpul sore connected to the apPl\"'09r lal. module OUtput terminals via summing n elwork res islors 10 be com_ b ined witH feeds from o t n e r sub mas le r m l\" ing channels.",
+    "Au,,' l la \"y Outputs",
+    "In addition, a SOLO output i s e veuee te via SW7, to allow selective mon it_ ing of the par l icu l.,r s ubmas ter channel. Ot~r feeds or lg ln.,ti n g from tne 8 _109F amplifier are supplied 10 I ~ P OSTFADE RS, FB and PAc han nell.",
+    "PRE /POST Selector SwitChes and Level Controls",
+    "P RE/POST l election oft ~ RS, FB and PAc h anne l sis facllh.,ted by s wl lc n e s SW2, SW3 and SW/o respectively; each swilCh Is ' followed b y its a s itOClated lev a l ccoeee r • The OUlputs oft he level con lrols a \"e fed to the summing OUtputl via ind iv id u ala ss ig n....... t s wl t c n e s. Fo l lo win,.. Ihe.,ss lgnment Iwitcne s, the l e OUl puts are fed to their appropriate mi,, 'ng b Uies vie lumm ingres ll tOl\"S.",
+    "Con t\"ol Functions",
+    "A de; c c o net e;on taCI il available on the SOLOs wilCh SW7.",
+    "Pow e,. SUPDI\" Decoupl ing",
+    "An active po we,. supply decou pll ng network consist ing o f C9 t n \" o ugh",
+    "Clio p,.ovides Iiolat ion between the module and the. / -25 volts u p ply",
+    "rail l. T,. an s ist or l C13 and Clio mo nit o,. the supply cur ren l. Int h e even l of excessive powers u p ply demands, such as from component",
+    "fall u,. e ora mpli';er overdrive, the current flow ing through 011 and",
+    "012 will be limited.",
+    "WAFl OSEC I< SYSTEMS L.T O"
+   ]
+  },
+  {
+   "heading": "'''''' NUMBER",
+   "paragraphs": [
+    "cr,-, Tl9OFJJ7M006 AS",
+    "C.P~C: l tOt'\" \"\" uF /6 V J30 uF / 6 V eeteee ce del e leOS 10 pF Philips 2222_6 J8-10 109",
+    "CO 10 pF cs ISpF 22 t2-6J8_1 0 1S9 C' J.J p F 2222.6J8-09JJ8 C' J. J pF C>O 10 u F /25 V",
+    "en 10 uF /25 V CO2 JJ u F/ l 0 V TJ 900J J6MOI OAS cta 1500 p F As\"l c:o C0 9 2_\"'C.1S J/lot m 220p F Ph ~l i p s 2222-630-03221 m JJpF 2222_6]8-103J9",
+    "ere 10 p F 2222_6]8_ 10 109 m 4.7 p F 2222-6 ]8-09478 eta 3] u F/ 10 V Kernel T39OJJ6MQ10AS c ts 0.0 22 u F As\"lc:o CQ9 2_MC_22lM C>O 22 u F /25 V Philips 0]0 1622 9",
+    "C\" 22 u F /25 V C22 22 u F / 25 V C2J 22 u F / 25 V",
+    "CR, Diod\" del\" t\" CR' delete CR, MOloro l. lN4003",
+    "0' Transistor Nal ion al",
+    "0' PN 3645",
+    "0' 2N4401"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "ce T..a n. I\"to.. National PNJ6 to 5 Q' PNJ569 Q' PNJ6 to 5 Q' PNJ569 Q>O PNJ6 to 5",
+    "cuT IP 298 eta TIP J08"
+   ]
+  },
+  {
+   "heading": "PNJ569",
+   "paragraphs": [
+    "PNJ6 to 5",
+    "RO R\" \"i sto.. 1/ 4W 5'",
+    "Ph:,\" P.",
+    "T.. im POI etr ov 2K",
+    "R? \"\" Pl h\"..",
+    "s rtov 1K",
+    "0 >0 R\" \" l sIO\" 1/ 4W 5'",
+    "Ph ~,li p s",
+    "0\" lK'",
+    "0\" '00 0 20 '00",
+    "0 22 '\""
+   ]
+  },
+  {
+   "heading": "0 2J",
+   "paragraphs": [
+    "0 26 '20"
+   ]
+  },
+  {
+   "heading": "M~JA8 SU8MASTER MODULE",
+   "paragraphs": [
+    "RJll AI'"
+   ]
+  },
+  {
+   "heading": "RJ2 1",
+   "paragraphs": [
+    "R.... i.. tor 1! 4W 5'",
+    "Philips",
+    "A., R es l,~tor 1/ 4W 5 ~ Philips"
+   ]
+  },
+  {
+   "heading": "A\" 2.2",
+   "paragraphs": [
+    "2.2",
+    "J,l106JAB SUBMA STER MODULE",
+    "was ~ ecommen dst h e ule 0 1...e !,>l~ceme n l !,> 1I.~t s m.. d e by the s!'>ecif ied",
+    "m~ nul~clu~e~s lo~ continued o!,>lim um equip men l !,>e...f o ~man ce."
+   ]
+  }
+ ]
+}
