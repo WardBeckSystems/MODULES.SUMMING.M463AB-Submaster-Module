@@ -1,5 +1,5 @@
 # 1986 - M463AB - 463-02-019 - LALL RESISTORS ISK UNLESS.jpg
-Wiki page: [M463AB](../../../../PAGES/M463AB.md)
+Wiki page: [M463AB](../)
 
 
 - **Year:** 1986 (module estimate (manual_issue))

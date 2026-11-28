@@ -1,5 +1,5 @@
 # 1986 - M463AB - 463-01-019 - ONITOR JUTPUT IRECT OUTPUT.jpg
-Wiki page: [M463AB](../../../../PAGES/M463AB.md)
+Wiki page: [M463AB](../)
 
 
 - **Year:** 1986 (module estimate (manual_issue))
