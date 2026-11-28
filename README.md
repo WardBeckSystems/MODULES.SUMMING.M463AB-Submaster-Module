@@ -199,6 +199,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMVhtcXVzMFBCOXM/view?resourcekey=0-MgwdcLndFOjfdAdOb_b4kA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMVhtcXVzMFBCOXM&resourcekey=0-MgwdcLndFOjfdAdOb_b4kA" width="240" alt="1986 - M463AB - 463-04-102 - PAN SOLO SWICN.jpg"></a><br><sub>1986|19 · 463-04-102 - PAN SOLO SWICN · <a href="MECHANICAL/1986%20-%20M463AB%20-%20463-04-102%20-%20PAN%20SOLO%20SWICN%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZWF5Z3NDS0JOTG8/view?resourcekey=0-R6YNCt_TtYtAkZGQMV5h9w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZWF5Z3NDS0JOTG8&resourcekey=0-R6YNCt_TtYtAkZGQMV5h9w" width="240" alt="1986 - M463AB - 463-04-103 - MON TOR OUT SOLO.jpg"></a><br><sub>1986|19 · 463-04-103 - MON TOR OUT SOLO · <a href="MECHANICAL/1986%20-%20M463AB%20-%20463-04-103%20-%20MON%20TOR%20OUT%20SOLO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M463AB.stl`](MECHANICAL/M463AB.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M463AB)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: wide 7.0" high 6.5 (41 Mm 178 Mm 165 Mm deep)
+- **From the drawing:** 8 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M463AB - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M463AB.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
